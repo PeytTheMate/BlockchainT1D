@@ -1,9 +1,12 @@
 # T1D-Guardian
 
-A privacy-focused Type 1 Diabetes analytics system using AI, encryption, and blockchain for data integrity verification.
+Personal project! The goal was to create a privacy-focused Type 1 Diabetes analytics system using AI, encryption, and blockchain for data integrity and verification. I personally experience having to optimize my life as a type 1 diabetic, and this was a fun way to try to learn some cryptography methods and also help my health.
 
-See this Notion site for the full methodology (no normal and sane person would do this):
+Full methodology site (no normal/sane person would do this but this project is exciting):
 https://everlasting-coriander-906.notion.site/T1D_Blockchain-Documentation-1f96670fd54880fca7bce71a19c6da13
+
+Integrity Notice:
+I used AI to help me code certain page because I didn't understand how to implement my entire methodology I wanted to use, but all ideas and verification are from me!
 
 ## Overview
 
@@ -38,7 +41,7 @@ T1D-Guardian is a comprehensive platform for Type 1 Diabetes patients to analyze
 
 ## Technical Architecture
 
-T1D-Guardian is built using a modern tech stack:
+BlockchainT1D is built using a modern tech stack:
 
 - **Frontend/Application**: Streamlit for an interactive user interface
 - **Data Processing**: Pandas and NumPy for glucose data analysis
