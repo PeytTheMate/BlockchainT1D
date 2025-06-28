@@ -2,8 +2,8 @@
 
 Personal project! The goal was to create a privacy-focused Type 1 Diabetes analytics system using AI, encryption, and blockchain for data integrity and verification. I personally experience having to optimize my life as a type 1 diabetic, and this was a fun way to try to learn some cryptography methods and also help my health.
 
-Full methodology site (no normal/sane person would do this but this project is exciting):
-https://everlasting-coriander-906.notion.site/T1D_Blockchain-Documentation-1f96670fd54880fca7bce71a19c6da13
+Full methodology (no normal/sane person would do this but this project is exciting to me):
+https://docs.google.com/document/d/1Mw9yBid8qYmp7a-CMC7gUtbNi9JJ0ETt5RHvDVMNi0Q/edit?tab=t.0#heading=h.1nos5nhdcgu0
 
 Integrity Notice:
 I used AI to help me code certain page because I didn't understand how to implement my entire methodology I wanted to use, but all ideas and verification are from me!
@@ -95,23 +95,6 @@ streamlit run app.py
 5. **Generate Predictions**: Train the AI model to get personalized predictions
 6. **Secure Your Data**: Use the Security & Verification features to protect and verify your data
 
-## Use Cases
-
-### For Patients
-- Analyze your glucose patterns and trends
-- Get predictions for potential hypoglycemic events
-- Securely share specific insights with healthcare providers
-- Maintain complete ownership of your health data
-
-### For Healthcare Providers
-- Receive verifiable glucose data insights from patients
-- Access only the data patients explicitly consent to share
-- Generate comprehensive medical reports
-- All access is logged and transparent to the patient
-
-## Contributing
-
-We welcome contributions to T1D-Guardian! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## License
 
